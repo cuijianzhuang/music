@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcuijianzhuang%2Fmusic.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcuijianzhuang%2Fmusic?ref=badge_shield)
+
 专辑：我用什么把你留住
 歌手：福禄寿FloruitShow
 语言：国语
@@ -36,3 +38,7 @@
 混音师：谢又耘／师锐《我用什么把你留住》/《超度我》／小武《没咯》
 
 母带工程师：王海琛
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcuijianzhuang%2Fmusic.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcuijianzhuang%2Fmusic?ref=badge_large)
